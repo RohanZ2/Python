@@ -11,3 +11,4 @@ for h in range(2, prime_int + 1): #We add +1 to make sure we  are getting prime_
             break
     if prime:
         print(h)
+        print(testing)
